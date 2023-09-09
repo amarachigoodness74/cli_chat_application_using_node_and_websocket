@@ -1,4 +1,5 @@
 # cli_chat_application_using_node_and_websocket
 A simple cli chat app that uses websocket to communicate with many clients
 
-![cli-chat-app](https://user-images.githubusercontent.com/111460538/219868828-cf9137d8-20cd-4b00-a124-b269a1ea942f.gif)
+![ws_chat](https://github.com/amarachigoodness74/cli_chat_application_using_node_and_websocket/assets/111460538/82ffad36-43db-4bda-94d0-ecc40ae415cf)
+
